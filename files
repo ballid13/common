@@ -12,3 +12,4 @@ string."""
 # WARNING: Watch out for the trailing s in "%(key)s".
 >>> print "This %(verb)s a %(noun)s." % {"noun": "test", "verb": "is"}
 This is a test.
+end
